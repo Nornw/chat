@@ -1,0 +1,12 @@
+{
+    "name": "多人聊天应用",
+    "version": "1.0.0",
+    "description": "多人匿名实时聊天应用",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "ws": "^8.13.0"
+    }
+}
